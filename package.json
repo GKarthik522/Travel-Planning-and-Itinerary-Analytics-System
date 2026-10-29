@@ -1,0 +1,9 @@
+{
+  "name": "wanderlust-travel-suite",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && node ./node_modules/vite/bin/vite.js build",
+    "dev": "cd frontend && npm run dev"
+  }
+}
